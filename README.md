@@ -24,6 +24,6 @@ Application should be up at [http://localhost:8080](http://localhost:8080).
 
 **Question 3:** Bundlers allow us to conveniently manage all of our dependencies on a per-project basis and share those dependencies across a development team. Parcel automatically detects language extensions used in a project (TypeScript, CSS, etc.) and installs them for us. It also comes bundled with a develoment server with hot-reloading.
 
-**Question 4:** A
+**Question 4:** The possible states are CONNECTING (socket had been created but connection has not been opened), OPEN (connection is open), CLOSING (connection is closing), and CLOSED (the connection has been closed).
 
 **Question 5:** A
